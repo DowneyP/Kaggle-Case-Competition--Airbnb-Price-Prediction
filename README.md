@@ -4,7 +4,8 @@ Data set could be download at Kaggle: data analysis.csv and score analysis.csv
 
 ########################################################################################
 
-Model
+Model:
+
 -Backward selection
 -Lasso
 -Random Forests
